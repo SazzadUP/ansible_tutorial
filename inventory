@@ -6,3 +6,6 @@ server2@10.0.2.4
 
 [file_servers]
 server3@10.0.2.5
+
+[workstations]
+server3@10.0.2.5
